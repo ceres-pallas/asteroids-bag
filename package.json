@@ -1,6 +1,6 @@
 {
   "name": "asteroids-bag",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "An implementation of a bag tailored to Asteroids",
   "main": "lib/bag.js",
   "scripts": {
