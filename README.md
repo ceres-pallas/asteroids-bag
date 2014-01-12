@@ -1,4 +1,4 @@
-asteroids-bag
+asteroids-bag [![Build Status](https://travis-ci.org/ceres-pallas/asteroids-bag.png?branch=master)](https://travis-ci.org/ceres-pallas/asteroids-bag)
 =============
 
 An implementation of a bag tailored to Asteroids
